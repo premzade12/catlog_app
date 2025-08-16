@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "detail": "The iPhone 12 Pro features a 6.1-inch Super Retina XDR display, powered by the A14 Bionic chip. With a pro camera system and LiDAR scanner, it offers stunning photography, faster performance, and premium build quality.",
+      "price": 88199,
+      "color": "#33505a",
+      "image": "https://rukminim2.flixcart.com/image/704/844/kg8avm80/mobile/c/v/t/apple-iphone-12-pro-max-dummyapplefsn-original-imafwgcyhmzhaapd.jpeg?q=90&crop=false"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel phone 5th generation",
+      "detail": "Google Pixel 5 comes with a 6-inch OLED display, Snapdragon 765G processor, and the best-in-class camera software. Known for its clean Android experience and guaranteed updates directly from Google.",
+      "price": 32499,
+      "color": "#00ac51",
+      "image": "https://m.media-amazon.com/images/I/310ulnqsp7L._SL500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "M1 Macbook Air",
+      "desc": "Apple Macbook air with apple silicon",
+      "detail": "The MacBook Air with M1 chip delivers blazing fast performance, all-day battery life, and a fanless design. Perfect for students and professionals, it supports macOS seamlessly with optimized apps for Apple Silicon.",
+      "price": 54990,
+      "color": "#e0bfae",
+      "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111883_macbookair.png"
+    },
+    {
+      "id": 4,
+      "name": "Playstation 5",
+      "desc": "Sony Playstation 5th generation",
+      "detail": "The PS5 redefines gaming with its lightning-fast SSD, 4K gaming capabilities, and DualSense controller featuring haptic feedback. Supports the latest AAA titles and backwards compatibility for PS4 games.",
+      "price": 60490,
+      "color": "#544ee4",
+      "image": "https://media.direct.playstation.com/is/image/sierialto/PS5-Disc-Slim-New-Hero-1?$native$"
+    },
+    {
+      "id": 5,
+      "name": "Airpods Pro",
+      "desc": "Apple Aipods Pro 1st generation",
+      "detail": "AirPods Pro offer Active Noise Cancellation for immersive sound, Transparency mode to hear your surroundings, and a customizable fit for all-day comfort. Powered by the H1 chip for seamless Apple ecosystem integration.",
+      "price": 26900,
+      "color": "#e3e4e9",
+      "image": "https://rukminim2.flixcart.com/image/704/844/kpinwy80/headphone/r/1/q/mwp22hn-a-apple-original-imag3qe9eqkfhmg8.jpeg?q=90&crop=false"
+    },
+    {
+      "id": 6,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro 2020 edition",
+      "detail": "The iPad Pro is powered by the Apple M1 chip, offering desktop-class performance in a thin tablet. Features a Liquid Retina display with ProMotion and Face ID, making it ideal for creatives and professionals.",
+      "price": 99900,
+      "color": "#f73984",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-12-select-202104_GEO_IN?wid=940&hei=1112&fmt=png-alpha&.v=1617067381000"
+    },
+    {
+      "id": 7,
+      "name": "Galaxy S21 Ultra",
+      "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+      "detail": "Samsung’s Galaxy S21 Ultra comes with a massive 6.8-inch AMOLED 120Hz display, Snapdragon 888 processor, and a powerful quad-camera system with 100x Space Zoom. A premium device for power users.",
+      "price": 48990,
+      "color": "#1c1c1c",
+      "image": "https://m.media-amazon.com/images/I/81M+aHjfvpS.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Galaxy S21",
+      "desc": "Samsung Galaxy S21 2021 edition",
+      "detail": "The Galaxy S21 offers flagship performance with a 6.2-inch Dynamic AMOLED display, Exynos 2100/Snapdragon 888 chipset, and a triple-camera setup. Sleek design and great value in the S21 lineup.",
+      "price": 22999,
+      "color": "#7c95eb",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/300445_0_c2ehra.png"
+    }
+  ]
+}
